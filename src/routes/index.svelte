@@ -7,7 +7,7 @@
 
 	<Counter />
 
-	<p>Visit <a href="https://svelte.dev">svelte.dev</a> to learn how to build Svelte apps.</p>
+	<p>Visit <a href="https://gidiguru.com">Gidiguru's world</a> to learn how to become a Blockchain Developer.</p>
 </main>
 
 <style>
