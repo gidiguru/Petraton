@@ -11,7 +11,7 @@
 	  <div class="pt-32 pb-12 md:pt-40 md:pb-20">
 		<!-- {/* Section header */} -->
 		<div class="flex flex-col items-center">
-	  <img class="object-center bg-yellow-400" src="/src/assets/img/Petraton.png" alt="Petraton" />	
+	  <img class="object-center bg-yellow-400" src="/img/Petraton.png" alt="Petraton" />	
 	  </div>	
 		<div class="text-center pb-12 md:pb-16">
 		  <h1 class="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out">Petraton </h1>
